@@ -9,4 +9,4 @@
 
 = Enhancements =
 
-  * _Limited poly-A tail length_: length distribution is cut at maximum known adenylation polymer
+  * _Limited poly-A tail length_: length distribution is cut at maximum known adenylation polymer. This is a temporary solution, the fragmentation initiation step may become slower.
