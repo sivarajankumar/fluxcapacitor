@@ -1,0 +1,11 @@
+#labels Simulator,Phase-New
+#Updates in Simulator build  20100420
+
+= Bug fixes =
+
+  * *Issue 28*: polyA tails inmediary to transcript sequence
+http://code.google.com/p/fluxcapacitor/issues/detail?id=28
+  * *Issue 29*: Simulator cannot handle identical transcript IDs 
+http://code.google.com/p/fluxcapacitor/issues/detail?id=29
+
+  * Automatic links to other wiki pages
