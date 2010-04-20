@@ -1,6 +1,4 @@
 #labels Simulator,Phase-New
-# Updates in Simulator build 20100420.
-
 = Bug fixes =
 
   * *Issue* *28*: _polyA tails intermediary to transcript sequence_<br>http://code.google.com/p/fluxcapacitor/issues/detail?id=28
