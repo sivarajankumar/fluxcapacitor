@@ -11,4 +11,4 @@
 
 = Incompatibilities =
 
-  * .lib files of version 20100330 and earlier are incompatible due to the changes necessary to solve Issue 28.
+  * Library (.lib) files of version 20100330 and earlier are incompatible due to the changes necessary to solve Issue 28.
