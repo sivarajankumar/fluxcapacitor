@@ -3,7 +3,7 @@
 
 = Bug fixes =
 
-  * *Issue 28*: polyA tails inmediary to transcript sequence
+  * *Issue* 28: polyA tails inmediary to transcript sequence
 http://code.google.com/p/fluxcapacitor/issues/detail?id=28
   * *Issue 29*: Simulator cannot handle identical transcript IDs 
 http://code.google.com/p/fluxcapacitor/issues/detail?id=29
